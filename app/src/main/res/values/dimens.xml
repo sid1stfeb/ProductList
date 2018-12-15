@@ -1,0 +1,17 @@
+<resources>
+    <!-- Paddings and Margins -->
+    <dimen name="size_2dp">2dp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_12dp">12dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+
+
+    <dimen name="size_124dp">124dp</dimen>
+    <dimen name="size_240dp">240dp</dimen>
+
+    <!-- Fonts -->
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_17sp">17sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+
+</resources>
